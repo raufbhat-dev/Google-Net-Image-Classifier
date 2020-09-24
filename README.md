@@ -36,6 +36,14 @@ This source code mimics the googlenet that won the ILSVRC14 challenge with sligh
 
 "~" represents: with a very tiny margin.
 
+**Accuracy**
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/GoogleNetAccuracy.jpg?raw=true)
+
+**Loss**
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/GoogleNetLoss.jpg?raw=true)
+
 **Note**:
 * All the FC NN have been modified to accomodate this use case.
 * The Conv and Pooling layers remain as described in the googlenet paper.
