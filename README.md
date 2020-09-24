@@ -38,11 +38,11 @@ This source code mimics the googlenet that won the ILSVRC14 challenge with sligh
 
 **Accuracy**
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/GoogleNetAccuracy.jpg?raw=true)
+![Accuracy](https://github.com/raufbhat-dev/intel_image_classification/blob/master/GoogleNetAccuracy.png)
 
 **Loss**
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/GoogleNetLoss.jpg?raw=true)
+![Loss](https://github.com/raufbhat-dev/intel_image_classification/blob/master/GoogleNetLoss.png)
 
 **Note**:
 * All the FC NN have been modified to accomodate this use case.
