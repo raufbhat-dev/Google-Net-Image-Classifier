@@ -121,7 +121,7 @@ def inception_module(x_inp,kernel_size):
     print("x_pool_proj: ",x_pool_proj.shape)
 
     x_out = tf.keras.layers.Concatenate(axis=-1)([x1, x3, x5, x_pool_proj])
-    print("x_out: ",x_fin.shape)
+    print("x_out: ",x_out.shape)
     print("\n*** inception  end ***\n")
 
     return x_out
