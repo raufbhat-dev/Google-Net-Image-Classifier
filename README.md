@@ -1,6 +1,4 @@
-# intel_image_classification
-
-**Image classification by implementing googLeNet**
+# Image classification by implementing googLeNet
 
 This source code mimics the googlenet that won the ILSVRC14 challenge with slight modifications in the fully connected layers in all the 3 outputs to accomodate the use case described below.
 
