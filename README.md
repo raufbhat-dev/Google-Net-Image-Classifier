@@ -2,17 +2,17 @@
 
 This source code mimics the googlenet that won the ILSVRC14 challenge with slight modifications in the fully connected layers in all the 3 outputs to accomodate the use case described below.
 
-**Hardware Peak Utilisation**
+**Hardware Peak Utilisation**:
 * CPU: 32 core
 * Virtual Memory: 25 GB
 * RES Memory: 15 GB
 * Runtime: ~35 mins
 
-**software**
+**software**:
 * python: 3.5.2
 * tensorflow:2.3.0
 
-**Data Set**
+**Data Set**:
 * source: Kaggle 
 * userid: puneet6060 
 * data-set: intel-image-classification
@@ -36,13 +36,13 @@ This source code mimics the googlenet that won the ILSVRC14 challenge with sligh
 
 "~" represents: with a very tiny margin.
 
-**Accuracy**
+**Accuracy**:
 
-![Accuracy](https://github.com/raufbhat-dev/intel_image_classification/blob/master/GoogleNetAccuracy.png)
+![accuracy](https://github.com/raufbhat-dev/intel_image_classification/blob/master/GoogleNetAccuracy.png)
 
-**Loss**
+**Loss**:
 
-![Loss](https://github.com/raufbhat-dev/intel_image_classification/blob/master/GoogleNetLoss.png)
+![loss](https://github.com/raufbhat-dev/intel_image_classification/blob/master/GoogleNetLoss.png)
 
 **Note**:
 * All the FC NN have been modified to accomodate this use case.
